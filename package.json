@@ -1,5 +1,5 @@
 {
-  "name": "material-ui-phone-number",
+  "name": "material-ui-phone-number-forked",
   "version": "2.2.6",
   "description": "A material-ui react component to format phone numbers. Based on react-phone-input-2",
   "main": "dist/index.js",
